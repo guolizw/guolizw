@@ -16,7 +16,7 @@
 
 
 ### Glad to see you here!  
-I am a soon to graduate college student who has a great passion for computer technology and possesses certain technical abilities. Specifically, I am able to independently develop full stack front-end and back-end development, familiar with the concept of front-end and back-end separation, and have insights and proficiency in JAVA and Vue that surpass my peers. I am very passionate about writing robust code, building powerful backend instances, and will continue to do so in the future. If you encounter me here, it shows that you and I share a common language. You can contact me through the contact information above. Welcome to discuss technical issues together!
+😃I am a soon to graduate college student who has a great passion for computer technology and possesses certain technical abilities. Specifically, I am able to independently develop full stack front-end and back-end development, familiar with the concept of front-end and back-end separation, and have insights and proficiency in JAVA and Vue that surpass my peers😏. I am very passionate about writing robust code, building powerful backend instances, and will continue to do so in the future🤜🤛. If you encounter me here, it shows that you and I share a common language. You can contact me through the contact information above. Welcome to discuss technical issues together!😎😎
   
   
 
