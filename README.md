@@ -109,4 +109,4 @@ I am a soon to graduate college student who has a great passion for computer tec
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
